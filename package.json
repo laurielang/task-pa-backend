@@ -1,0 +1,23 @@
+{
+  "name": "task-pa-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurielang/task-pa-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "serverless-http": "^1.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/laurielang/task-pa-backend/issues"
+  },
+  "homepage": "https://github.com/laurielang/task-pa-backend#readme"
+}
